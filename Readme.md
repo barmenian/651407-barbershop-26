@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Artem Melik-Parsadanyan](https://up.htmlacademy.ru/htmlcss/26/user/651407).
+* Наставник [Андрей Корейкин] (https://htmlacademy.ru/profile/ankormoreankor).
 
 ---
 
